@@ -1,0 +1,8 @@
+agrobot_env/
+__pycache__/
+*.pyc
+.DS_Store
+agrobot_cnn_model.h5
+agrobot_cnn_model.keras
+class_names.txt
+plantvillage dataset/
